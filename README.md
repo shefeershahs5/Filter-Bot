@@ -3,11 +3,11 @@
 - `DATA BASE`: Sqlalchemy Database
 - `DATA LIMIT`: 10000
 
-My New Updates In This [Channel](https://t.me/DX_Botz)
+My New Updates In This [Channel](https://t.me/shahs_of_telegram)
 
 Our Beta [Filter Bot](https://t.me/Filters_Robot).
 
-Alternatively, [find me on telegram](https://t.me/D_ar_k_Angel)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/shefeershahs)! (Keep all support questions in the support chat, where more people can help you.)
 
 ### Easy Way to Deploy
 
@@ -24,8 +24,8 @@ from bot.sample_config import Config
 
 
 class Development(Config):
-    OWNER_ID = 1118936839  # my telegram ID
-    OWNER_USERNAME = "Sur_vivor"  # my telegram username
+    OWNER_ID = 772742811 # my telegram ID
+    OWNER_USERNAME = "shefeershahs"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     USE_MESSAGE_DUMP = True
